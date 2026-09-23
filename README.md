@@ -1,16 +1,35 @@
-## Hi there 👋
+# Ainthrmo
 
-<!--
-**ainthrmo/ainthrmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & AI-assisted builder focused on SaaS, automation, and growth.
 
-Here are some ideas to get you started:
+I build practical products, ship quickly, and learn through real users and real-world feedback.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Building
+
+### MOSSQR
+A QR digital menu SaaS for restaurants and cafés.
+
+- Next.js
+- Supabase
+- Vercel
+- AI-assisted development
+
+## Learning & Exploring
+
+- SaaS Growth & GTM
+- Product Marketing
+- Customer Discovery & Sales
+- Distribution
+- Data & Automation
+
+## What I Like Building
+
+- SaaS products
+- AI-assisted workflows
+- Automation tools
+- Practical products for small businesses
+
+## Connect
+
+- Website: https://getmossqr.com
+- GitHub: https://github.com/ainthrmo
