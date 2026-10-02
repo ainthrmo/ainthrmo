@@ -33,3 +33,4 @@ A QR digital menu SaaS for restaurants and cafés.
 
 - Website: https://getmossqr.com
 - GitHub: https://github.com/ainthrmo
+- Email: ainthrmo@gmail.com
